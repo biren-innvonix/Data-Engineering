@@ -1,0 +1,548 @@
+SR_NO,CLASSIFICATION,SYM,GEN_SR
+1,Acupuncturists,A,1
+2,Adult Care Facilities,A,2
+3,Aerobics,A,3
+4,Animal Saddle for Hire,PA,4
+5,Animal Saddle Private,PA,5
+6,Apartment Tenement Boarding or Roo0g House,A,6
+7,Archery Range Optional Exclusion LS-14,R,7
+8,Athletic Games Optional Exclusion LS-14,PG,8
+9,Athletic and Sports Contest in Buildings Optional Exclusion LS-14,AD,9
+10,Automatic Slot Vending and Video Machines Optional Exclusion LS-16,E,10
+11,Automobile Garage Community,A,11
+12,Automobile Garage Private,A,12
+13,Automobile Parking Area,A,13
+14,Automobile Parking Stations Open Air Charge for Parking Optional Exclusion LS-16,A,14
+15,Automobile Racing Optional Exclusion LS-14,AD,15
+16,Barber Shop,A,16
+17,Beaches,E,17
+18,Beauty Parlor,A,18
+19,Bed and Breakfast Without Pool or Beach Optional Endorsement LS-33,U,19
+20,Bed and Breakfast With Pool or Beach Optional Endorsement LS-33,U,20
+21,Bingo Games,AD,21
+22,Bleachers or Grandstand Optional Exclusion LS-14,E,22
+23,Boarding Stable,A,23
+24,Boats No Motor For Hire Optional Endorsement LS-29,E,24
+25,Boats Canoe or Rowboat Private No Motor Optional Endorsement LS-29,E,25
+26,Boats Outboard Motor Less than 25 HP Optional Endorsement LS-29,E,26
+27,Boat Private Outboard Motor 25 HP or more Optional Endorsement LS-29,E,27
+28,Boats Houseboats Private Optional Endorsement LS-29,E,28
+29,Boats Motor or Sail Private Passenger Optional Endorsement LS-29,E,29
+30,Boats Inboard Private Passenger Less than 26ft Less than 16 HP Optional Endorsement LS-29,E,30
+31,Boats Inboard Private Passenger Less than 26ft 16-30 HP Optional Endorsement LS-29,E,31
+32,Boats Inboard Private Passenger Less than 26ft More than 30 HP Optional Endorsement LS-29,E,32
+33,Boats Inboard Private Passenger 26-40ft Less than 16 HP Optional Endorsement LS-29,E,33
+34,Boats Inboard Private Passenger 26-40ft 16-30 HP Optional Endorsement LS-29,E,34
+35,Boats Inboard Private Passenger 26-40ft More than 30 HP Optional Endorsement LS-29,E,35
+36,Boats Inboard Private Passenger over 40ft Less than 16 HP Optional Endorsement LS-29,E,36
+37,Boats Inboard Private Passenger over 40ft 16-30 HP Optional Endorsement LS-29,E,37
+38,Boats Inboard Private Passenger over 40ft More than 30 HP Optional Endorsement LS-29,E,38
+39,Boats Inboard Not Exceeding 10 HP Optional Endorsement LS-29,E,39
+40,Boats Sailboat No Motor Private Less than 26ft Optional Endorsement LS-29,E,40
+41,Boats Sailboat No Motor 26-40 ft Optional Endorsement LS-29,E,41
+42,Boats Sailboats No Motor Over 40 ft Optional Endorsement LS-29,E,42
+43,Boat Sales,A,43
+44,Boat-Wharf Dock Float,E,44
+45,Bowling Alleys Food or Beverage Sales Should be Separately Rated,A,45
+46,Building Manufacturing or Warehousing Lessors Risk Only,A,46
+47,Building or Premises NOC Lessors Risk Only,A,47
+48,Building or Premises Occupied by More Than One Interest Manufacturing or Warehouse Lessors Risk Only,A,48
+49,Building or Premises NOC A 120910 manual rates,A,49
+50,Camps Optional Exclusion LS-28,CD,50
+51,Car Wash,A,51
+52,Catalogue Sales,A,52
+53,Cemeteries,AC,53
+54,Christmas Decoration Street,FL,54
+55,Christmas Tree Lot,E,55
+56,Churches 0uding Completed Operations and Products Attach Endorsement LS-43,A,56
+57,Churches,A,57
+58,Clam Bakes Steak Roasts etc,FL,58
+59,Cleaning and Dyeing Receiving Stations 0uding Completed Operations and Products Optional Exclusion LS-15 Attach Endorsement LS-43,A,59
+60,Cleaning and Dyeing Receiving Stations,A,60
+61,Clock Makers 0uding Repairs,A,61
+62,Clubs Civic No Building or Premises Owned or Leased 0uding Products Attach Endorsement LS-43 Optional Exclusion LS-23,PP,62
+63,Clubs Civic No Building or Premises Owned or Leased Optional Exclusion LS-23,PP,63
+64,Clubs Country Food or Beverage Sales Separately Rated Optional Endorsement LS-32 Optional Endorsement LS-23,A,64
+65,Clubs 0uding Lodges NOC Food or Beverage Sales Separately Rated Optional Endorsement LS-32 Optional Endorsement LS-23,A,65
+66,Clubs NOC Grounds in Excess of 5 Acres,AC,66
+67,Coin or Stamp Dealers,A,67
+68,Computer Program0g and Design,A,68
+69,Computer Sales Service and Repair,A,69
+70,Concessionaires,A,70
+71,Condo0iums,A,71
+72,Convalescent or Nursing Home,A,72
+73,Cosmetic Hair or Skin Preparation,A,73
+74,Dance Studios,A,74
+75,Day Nurseries,A,75
+76,Dentist or Physicians Office,A,76
+77,Display Booths,E,77
+78,Dog Kennels,PK,78
+79,Drafting,A,79
+80,Drive-in Theatres,R,80
+81,Dwelling 1 Family Initial,E,81
+82,Dwelling 1 Family with Incidental Office,E,82
+83,Dwelling 2 Family Initial,E,83
+84,Dwelling 2 Family with Incidental Office,E,84
+85,Dwelling 3 Family,E,85
+86,Dwelling 4 Family,E,86
+87,Elect Data Processing Center,A,87
+88,Exhibitions Optional Exclusion LS-14,PD,88
+89,Exercise or Health Club,A,89
+90,Fairgrounds Optional Exclusion LS-14,E,90
+91,Fairs Optional Exclusion LS-14,FL,91
+92,Fairs Outside Optional Exclusion LS-14 Optional Exclusion LS-36,FL,92
+93,Farm Residence 0uding Acreage 160 Acres or Less,E,93
+94,Farm Residence Over 160 Acres But Not More than 500 Acres,E,94
+95,Farm Residence More than 500 Acres,E,95
+96,Farm Grazing Away From Insureds Premises First 100 Animals 0uding Completed Operations Attach Endorsement LS-43 Optional Exclusion LS-35,PA,96
+97,Farm Grazing Away From Insureds Premises Next 400 Animals 0uding Completed Operations Attach Endorsement LS-43 Optional Exclusion LS-35,PA,97
+98,Farm Grazing Away From Insureds Premises Over 500 Animals 0uding Completed Operations Attach Endorsement LS-43 Optional Exclusion LS-35,PA,98
+99,Fire Houses,A,99
+100,Fishing-Ponds or Lakes With Boat Rentals,E,100
+101,Fishing-Ponds or Lakes No Boat Rentals,E,101
+102,Fund Raising Organization,A,102
+103,Gasoline Pumps No Sales,E,103
+104,Golf Instructors,PP,104
+105,Gravel Pit,E,105
+106,Greenhouses,A,106
+107,Halls Dance Food or Beverage Sales Separately Rated,A,107
+108,Halls NOC Food or Beverage Sales Separately Rated,A,108
+109,Hay Rides,FL,109
+110,Homes for Aged,A,110
+111,Hot Tubs and Spas,E,111
+112,Hotels Lessors Risk Only Optional Endorsement LS-33,A,112
+113,Human Service Organization,A,113
+114,Hunting For a Charge,PP,114
+115,Insurance Agents 0uding Products Attach Endorsement LS-43,A,115
+116,Insurance Agents,A,116
+117,Insurance Company 0uding Products Attach Endorsement LS-43,A,117
+118,Insurance Company,A,118
+119,Karate School,A,119
+120,Kennels,PK,120
+121,Land Not occupied by Insured for Commercial Purposes Lessors Risk Only,F,121
+122,Laundries coin washing machines and dryers 0udes completed operations and products Attach Endorsement LS-43,A,122
+123,Laundries coin washing machines and dryers,A,123
+124,Laundries Hand-NOC 0udes Completed Operations and Products Attach Endorsement LS-43,A,124
+125,Laundries Hand-NOC,A,125
+126,Libraries,A,126
+127,Locksmiths,A,127
+128,Manufacturers Representatives,A,128
+129,Model Homes,E,129
+130,Motel without Pool or Beach Optional Endorsement LS-33,U,130
+131,Motel with Pool or Beach Optional Endorsement LS-33,U,131
+132,Motel without Pool or Beach-Seasonal Optional Endorsement LS-33,U,132
+133,Motel with Pool or Beach-Seasonal Optional Endorsement LS-33,U,133
+134,Museum,A,134
+135,News Stands,E,135
+136,Office 0uding Products Attach Endorsement LS-43,A,136
+137,Office Medical,A,137
+138,Office,A,138
+139,Optometrists Office,A,139
+140,Orchards,E,140
+141,Parades,E,141
+142,Parks and Playgrounds,E,142
+143,Pavilion or Open Bldg,A,143
+144,Picnic Grounds,E,144
+145,Push Carts,E,145
+146,Race Track Optional Exclusion LS-14,AD,146
+147,Real Estate Development Property,E,147
+148,Recreation Center Optional Exclusion LS-14,A,148
+149,Recycling Center,A,149
+150,Refreshment Stands Optional Exclusion LS-16,A,150
+151,Restaurants Optional Exclusion LS-16,A,151
+152,Restaurant Closed Season Optional Exclusion LS-16,A,152
+153,Restaurant and Tavern Parking,A,153
+154,Road Side Stand,E,154
+155,Self Storage Center Open to Public,A,155
+156,Shoe Repair,A,156
+157,Shooting Range,E,157
+158,Shopping Centers Lessors Risk Only,A,158
+159,Sign Advertising,E,159
+160,Sleigh Rides,FL,160
+161,Social Gathering 0uding Completed Operations Not on Insureds Premises Attach Endorsement LS-43,E,161
+162,Special Event 1-3 days,FL,162
+163,Special Event 4-7 days,FL,163
+164,Special Event More than 7 days,FL,164
+165,Storage Building Not Open to Public,A,165
+166,Student Housing,PP,166
+167,Antique Stores,A,167
+168,Art Galleries,A,168
+169,Auctions,A,169
+170,Bakery Optional Exclusion LS-16,A,170
+171,Carpet,A,171
+172,Cigar,A,172
+173,Clothing Retail,A,173
+174,Clothing Wholesale,A,174
+175,Confectionery No Consumption on Premises,A,175
+176,Confectionery Consumption on Premises Optional Exclusion LS-16,A,176
+177,Dairy Products No Consumption on Premises,A,177
+178,Dairy Products Consumption on Premises Optional Exclusion LS-16,A,178
+179,Delicatessen Optional Exclusion LS-16,A,179
+180,Drug Retail NOC Optional Exclusion LS-16,A,180
+181,Drug Wholesale Optional Exclusion LS-16,A,181
+182,Five and Ten Cent,A,182
+183,Florist,A,183
+184,Fruit and Vegetables,A,184
+185,Furniture,A,185
+186,General,A,186
+187,Grocery Retail NOC,A,187
+188,Grocery Retail Over 1500 sq ft and over 250000 in Sales,A,188
+189,Grocery Wholesale,A,189
+190,Hardware Retail,A,190
+191,Hardware Wholesale,A,191
+192,Hearing Aid Service Optional Exclusion LS-16,A,192
+193,Household Appliance Retail,A,193
+194,Household Appliance Wholesale,A,194
+195,Ice Cream Consumption on Premises Optional Exclusion LS-16,A,195
+196,Jewelry,A,196
+197,Leather Products,A,197
+198,Liquor and Wine,A,198
+199,Market Open Air,A,199
+200,Mail Order Houses,A,200
+201,Meat Fish and Poultry Retail,A,201
+202,Meat Fish and Poultry Wholesale,A,202
+203,Optical Establishments Optional Exclusion LS-16,A,203
+204,Pet,A,204
+205,Photography,A,205
+206,Plumbing,A,206
+207,Retail NOC,A,207
+208,Shoe,A,208
+209,Sporting Goods Retail Excludes Products Optional Exclusion LS-16,A,209
+210,Tailor Shop,A,210
+211,Wholesale NOC,A,211
+212,Street Banners,FL,212
+213,Swim0g Pools,E,213
+214,Tavern Optional Exclusion LS-16,A,214
+215,Tennis Handball Shuffleboard Courts Optional Exclusion LS-14,R,215
+216,Theatres 0uding Completed Operations and Products Attach Endorsement LS-43,AD,216
+217,Theatres Not Operated by the Insured Lessors Risk Only 0udes Completed Operations and Products Attach Endorsement LS-43,A,217
+218,Theatres Not Operated by the Insured Lessors,A,218
+219,Theatrical Performances,PD,219
+220,Ticket Sales,A,220
+221,Vacant Building,A,221
+222,Vacant Land,F,222
+223,Vacant Land Real Estate Development First 10 Acres,AC,223
+224,Vacant Land Real Estate Development Next 15 Acres,AC,224
+225,Vacant Land Real Estate Development All over 25 Acres,AC,225
+226,Vending Machines Optional Exclusion LS-16,E,226
+227,Warehouse Open to Public,A,227
+228,Warehouse Not Open to Public,A,228
+229,Word Processing Service,A,229
+230,Vacant Land less than 1 acre,FL,230
+231,Vacant Land 1-10 acres,FL,231
+232,Vacant Land 10-20 acres,FL,232
+233,Vacant Land over 20 acres,FL,233
+233,Vacant Land over 20 acres,FL,233
+235,Advertising Co Outdoors,P,2
+236,Air Conditioning Heating Refrigeration Installation Service or Repair,P,3
+237,Airports Private,E,4
+238,Alarm Mfg,P,5
+239,Alcoholic Beverage Mfg,P,6
+240,Aluminum Mfg,P,7
+241,Amusement Parks outdoor,P,8
+242,Analytical Chemist,P,9
+243,Animal Breeding,P,10
+244,Apparel Mfg,P,11
+245,Appliance Stores,P,12
+246,Arcades,R,13
+247,Architects and Engineers Consulting Not Engaged in Actual Construction,P,14
+248,Armored Car Service,P,15
+249,Awning Tent or Canvas,P,16
+250,Assembling and Incidental Manufacturing NOC,P,17
+251,Auctioneers,P,18
+252,Auto Garage Repair Shop,P,19
+253,Auto Sales Agencies,P,20
+254,Band Orchestra,P,21
+255,Bazaars Operated by Insured,R,22
+256,Beer Ale or Malt Mfg,P,23
+257,Beverage Distributor,P,24
+258,Bicycle Mfg Assembly,P,25
+259,Bicycle Rented to Others,R,26
+260,Biological Products Mfg,P,27
+261,Blacksmithing,P,28
+262,Blast Furnace Operations,P,29
+263,Boarding Stables,P,30
+264,Boat Building,R,31
+265,Boat Storage,R,32
+266,Boat Yards,R,33
+267,Boiler Installation or Repair,P,34
+268,Bookbinding,P,35
+269,Bottling,P,36
+270,Brick or Clay Prod Mfg,P,37
+271,Building Equipment Installation Erection or Repair,P,38
+272,Building Material Dealers,P,39
+273,Building surfaces cleaning or Renovating,P,40
+274,Butchering,P,41
+275,Cabinet Makers,P,42
+276,Cable Installation,P,43
+277,Camper and Camper Body Mfg,P,44
+278,Canneries,P,45
+279,Car Washes,P,46
+280,Car Washes Self Service,R,47
+281,Carpentry NOC,P,48
+282,Carpet Cleaner Customers Premises,P,49
+283,Carpet Linoleum Installation,P,50
+284,Carpet Or Rug Mfg,P,51
+285,Caterers,P,52
+286,Caves,E,53
+287,Cement Cinderblock or Brick Mfg,P,54
+288,Ceramics Mfg,P,55
+289,Chemical Mfg,P,56
+290,Chimney Cleaning,P,57
+291,Chimney Construction or Repair,P,58
+292,Cloth Printing,P,59
+293,Clothing Mfg,P,60
+294,Coal Fuel Oil or Wood Dealers,P,61
+295,Cofferdam Work,P,62
+296,Communication Equipment Installation,P,63
+297,Computer Mfg and Assembly,P,64
+298,Concrete Construction,P,65
+299,Concrete Prod Mfg,P,66
+300,Contact Lens Mfg,P,67
+301,Construction and Erection Executive Supervisors exercising supervision through superintendents and foremen not direct supervision,P,68
+302,Construction and Erection Without Operators,R,69
+303,Cranes Derricks Power Shovels and Equipment Incidental thereto Rented to Others with operators Including installation repair or removal,R,70
+304,Cranes Derricks Power Shovels and Equipment Incidental thereto Rented to Others without operators Including installation repair or removal,R,71
+305,Earth Moving Equipment Other than Cranes Derricks and Power Shovels Rented to Others with Operators Including installation repair or removal,R,72
+306,Excluding Automobiles Rented to Others With Operators Including installation repair or removal,R,73
+307,Excluding Automobiles Rented to Others Without Operators Including installation repair or removal,R,74
+308,Hod or Material Platform Hoists and Equipment Incidental thereto Rented to Others With Operators excluding installation repair or removal,P,75
+309,Hod or Material Platform Hoists and Equipment Incidental thereto Rented to Others Without Operators excluding installation repair or removal,R,76
+310,Ladders Scaffolds Scaffolding Sidewalk Bridges Towers and Equipment Incidental thereto Rented to Others Including installation repair or removal,R,77
+311,Steam Boilers Compressors Air Pressure Tanks Pneumatic Tools and Equipment Incidental thereto Rented to Others With Operators Including installation repair or removal,R,78
+312,Equipment Distributors Ladders Or Hoists Including Scaffolds,P,79
+313,Equipment Distributors Ladders Or Hoists Excluding Scaffolds,P,80
+314,Permanent Yard Maintenance or Storage of Equipment or Material,P,81
+315,Contractors NOC,P,82
+316,Contractor Executive supervisors or executive superintendents,P,83
+317,Contractors Subcontracted work building construction repair or erection building up to 4 stories,P,84
+318,Contractors Subcontracted work building construction repair or erection building more than 4 stories,P,85
+319,Contractors Subcontracted work work in connection with street highway bridge or tunnel construction and all other,P,86
+320,Crematories,P,87
+321,Custom Farming,R,88
+322,Dairy Product Mfg,P,89
+323,Dental Laboratories,P,90
+324,Detective or Patrol Agencies,P,91
+325,Die Casting Mfg,P,92
+326,Disk Jockey,P,93
+327,Draftsmen,P,94
+328,Drapery Mfg,P,95
+329,Drilling,P,96
+330,Driveway Construction or Repair,P,97
+331,Dry Wall Installation,P,98
+332,Dyeing,P,99
+333,Electric Light or Power Companies,P,100
+334,Electric Light or Power Line Construction,P,101
+335,Electrical Apparatus,P,102
+336,Electrician,P,103
+337,Engineers Construction,P,104
+338,Entertainers Clowns Magicians,P,105
+339,Excavation,P,106
+340,Exterminators,R,107
+341,Eyeglass Mfg,P,108
+342,Fabrication Metal Products,P,109
+343,Farm Machinery Dealer,P,110
+344,Farm Machinery Erection and Repair,P,111
+345,Feed Mfg Preparation,P,112
+346,Fence Erection,P,113
+347,Fertilizer Liquid Application,P,114
+348,Fertilizer Mfg,P,115
+349,Fire or Burglary Protection Systems Installation Service or Repair,P,116
+350,Fire Extinguisher Servicing Refilling or Retesting,P,117
+351,Firemen,R,118
+352,Fishing Vessels,P,119
+353,Floor Sanding,P,120
+354,Floor Waxing,P,121
+355,Florist Cultivating or Gardening Store Operations should be Separately Rated,R,122
+356,Flour Milling,P,123
+357,Food Product Mfg,P,124
+358,Foundries,P,125
+359,Fuel Oil Gasoline or Kerosene Sales,P,126
+360,Fumigating,P,127
+361,Funeral Directors Including Products and Completed Operations Attach End LS-27,P,128
+362,Furniture Mfg,P,129
+363,Furniture Stripping,P,130
+364,Furniture Upholstering,P,131
+365,Furs or Pelts Processing,P,132
+366,Garden and Landscaper,P,133
+367,Gasoline Station,P,134
+368,Glass or Glassware Mfg,P,135
+369,Glaziers,P,136
+370,Golf Course Miniature,R,137
+371,Golf Course Municipal or Public Optional Exclusion LS-16,R,138
+372,Golf Driving Range,R,139
+373,Golf Mobile Rented or Leased,E,140
+374,Grain Dealers,P,141
+375,Grain Elevator,P,142
+376,Grain Milling,P,143
+377,Gravel Digging,P,144
+378,Grouting,P,145
+379,Guides and Outfitters,P,146
+380,Gunsmithing,P,147
+381,Harness Saddle or Horse Furnishing Mfg,P,148
+382,Hay Baling,P,149
+383,Hay Grain or Feed Dealers Including Local Managers,P,150
+384,Home Health Care,P,151
+385,Honey Extracting,P,152
+386,Horticultural Services,P,153
+387,Hot Air Balloons,P,154
+388,House Furnishing Installation Including Upholstering,P,155
+389,House Cleaning,P,156
+390,Hide Dealers,P,157
+391,Ice Dealers,P,158
+392,Incinerator,P,159
+393,Inspection Company,P,160
+394,Instrument Mfg NOC,P,161
+395,Insulation Work NOC,P,162
+396,Interior Decorator,P,163
+397,Iron or Metal Decorative,P,164
+398,Iron or Steel Erection,P,165
+399,Janitor and Cleaning Service,P,166
+400,Laboratories,P,167
+401,Ladders Scaffolds,P,168
+402,Landscape Gardening,P,169
+403,Lathing,P,170
+404,Laundries and Dry Cleaners,P,171
+405,Laundries and Dry Cleaner Self Service Automatic Including Completed Operations and Products Optional Exclusion LS-15 Attach Endorsement LS-43,R,172
+406,Laundries and Dry Cleaner Self Service,R,173
+407,Leather Goods Mfg NOC,P,174
+408,Lens Mfg,P,175
+409,Livestock Dealers,P,176
+410,Livestock Yards,P,177
+411,Locksmith,P,178
+412,Logging and Lumbering,P,179
+413,Lumber Yards Including Local Managers,P,180
+414,Machinery Installation,P,181
+415,Machinery Equipment Dealers NOC,P,182
+416,Machine Shops NOC,P,183
+417,Mason,P,184
+418,Metal Goods NOC,P,185
+419,Milk Processing,P,186
+420,Milling,P,187
+421,Millwork,P,188
+422,Mining,P,189
+423,Mobile Home Mfg Not Self Powered,P,190
+424,Mobile Home Parks Rentals More Than 1 Month,R,191
+425,Mobile Home Parks Rentals Less Than 1 Month,R,192
+426,Motion Picture Production,P,193
+427,Mountain Climbing Canoe Trips Backpacking Trips etc.,P,194
+428,Newspaper Publisher Including Completed Operations and Products Attach Endorsement LS-43,P,195
+429,Newspaper Publisher,P,196
+430,Nurserymen,P,197
+431,Office Machines NOC Including Products and Completed Operations Attach Endorsement LS-43,P,198
+432,Office Machines NOC,P,199
+433,Orchards and Vineyards,P,200
+434,Oystermen or Fishermen,P,201
+435,Package Delivery,P,202
+436,Paint Mfg,P,203
+437,Painting Decorating or Paper Hanging,P,204
+438,Painting Shop,P,205
+439,Party Services,P,206
+440,Pattern Making,P,207
+441,Paving / Blacktopping,P,208
+442,Pet Grooming,P,209
+443,Petroleum Product Mfg,P,210
+444,Pharmaceutical or Surgical Goods,P,211
+445,Photo Finishing Labs,P,212
+446,Photographers Including Products and Completed Operations Attach Endorsement LS-43,R,213
+447,Photographers,R,214
+448,Piano Tuning Including Completed Operations Attach Endorsement LS-43,P,215
+449,Piano Tuning Including,P,216
+450,Plastering,P,217
+451,Plastic or Rubber Goods Mfg,P,218
+452,Playground or Exercise Mfg,P,219
+453,Plumbing,P,220
+454,Plumbing - Domestic NOC,P,221
+455,Prefabricated Buildings,P,222
+456,Printing Including Completed Operations and Products Attach Endorsement LS-43,P,223
+457,Printing Inlcuding,P,224
+458,Publishers Including Products and Completed Operations Attach Endorsement LS-43,P,225
+459,Publishers,P,226
+460,Pumps Mfg,P,227
+461,Quarries,P,228
+462,Radio TV Station,P,229
+463,Real Estate Agent Including Products and Completed Operations Attach Endorsement LS-43 LS-11,P,230
+464,Real Estate Agent Optional Endorsement LS-11,P,231
+465,Record or Tape Mfg,P,232
+466,Rendering Works,P,233
+467,Roofing,P,234
+468,Rope or Twine Mfg,P,235
+469,Safety Systems Installation Service & Repair,P,236
+470,Sail Making,P,237
+471,Sales and Service,P,238
+472,Sand or Gravel Digging,P,239
+473,Satellite Systems Installation Service & Repair,P,240
+474,Saw Mills and Planing Mills,P,241
+475,Seed Merchants,P,242
+476,Septic Tank Cleaning,P,243
+477,Septic Tank Installation Maintenance and Repair,P,244
+478,Service NOC,P,245
+479,Sheet Metal Work,P,246
+480,Siding,P,247
+481,Sign Erection,P,248
+482,Sign Manufacturer,P,249
+483,Sign Painting,P,250
+484,Skating Rink Optional Exclusion LS-14,FL,251
+485,Skeet or Trap Ranges Optional Exclusion LS-14,FL,252
+486,Ski Lifts Optional Exclusion LS-14,FL,253
+487,Small Appliance Repair,P,254
+488,Snow Removal,P,255
+489,Soft-Drink Mfg,P,256
+490,Sporting Goods Mfg,P,257
+491,Spraying of Crops,R,258
+492,Spraying of Trees,P,259
+493,Stables,P,260
+494,Stevedoring,P,261
+495,Stock Yards,P,262
+496,Stove Mfg,P,263
+497,Street Cleaning Including Snow Removal,P,264
+498,Surgical Supplies Rental,P,265
+499,Surveyors,P,266
+500,Syrup Refining,P,267
+501,Tank Mfg,P,268
+502,Tank Erection and Repair,P,269
+503,Tanneries,P,270
+504,Tanning Huts,P,271
+505,Taxidermy,P,272
+506,Television and Radio Installation and Repair,P,273
+507,Tents Rented to Others,R,274
+508,Textile Product Mfg,P,275
+509,Tile Stone Installation,P,276
+510,Tilling,P,277
+511,Tobacco Product Mfg,P,278
+512,Tool Mfg,P,279
+513,Trampoline Centers,R,280
+514,Trash Removal,P,281
+515,Travel Tours,TD,282
+516,Tree Pruning Including Completed Operations and Products Attach Endorsement LS-43,P,283
+517,Tree Pruning Including,P,284
+518,Truckmen,P,285
+519,Upholstering,P,286
+520,Vacation Farm,PP,287
+521,Vegetable or Fruit Packing,P,288
+522,Vegetable or Fruit Picking,P,289
+523,Veneer Product Mfg,P,290
+524,Venetian Blind Mfg,P,291
+525,Veterinarians Including Products and Completed Operations Attach Endorsement LS-43,P,292
+526,Veterinarians Including,P,293
+527,Volunteer First Aid & Rescue Squad,PP,294
+528,Warehouse Cold Including Products and Completed Operations Attach Endorsement LS-43,R,295
+529,Warehouse Cold,R,296
+530,Warehouse Storage Including Products and Completed Operations Attach Endorsement LS-43,R,297
+531,Warehouse Storage,R,298
+532,Water Bottling,P,299
+533,Water Softening Equipment Rental,P,300
+534,Water Softening Equipment - Service and Installation,P,301
+535,Welding & Cutting,P,302
+536,Wells,P,303
+537,Wig Mfg,P,304
+538,Window Cleaning,P,305
+539,Window Lettering,P,306
+540,Wine Mfg - Sparkling,P,307
+541,Wine Mfg - Still,P,308
+542,Wood Mfg - Lumber,P,309
+543,Woodenware Mfg,P,310
+544,Wrecking Buildings or Structure,P,311
+545,Yards - Contractors,P,312
+546,Yards - Lumber,P,313
+547,Yards - Stockyards,P,314
