@@ -3,7 +3,7 @@
 # print("Content from file",f.read())
 # f.close()
 
-## Writing a file
+# # Writing a file
 # content = "this is content to be write in a file"
 # f = open('demo2.txt','w')
 # f.write(content)
