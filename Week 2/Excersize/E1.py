@@ -1,7 +1,7 @@
 import pandas as pd
 from pathlib import Path
 
-input_folder = Path("data")
+input_folder = Path("Excersize/E1_CSVS")
 output_file = "merged.csv"
 
 csv_files = list(input_folder.glob("*.csv"))
@@ -16,4 +16,4 @@ merged_df = pd.concat(dataframes, ignore_index=True)
 
 merged_df.to_csv(output_file, index=False)
 
-print(f"Merged {len(csv_files)} files into {output_file}")
+print("Files merged successfully.")
